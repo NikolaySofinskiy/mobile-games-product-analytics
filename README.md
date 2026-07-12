@@ -98,6 +98,7 @@
    ```bash
    pip install pandas numpy scipy seaborn matplotlib pingouin
 4. Откройте файл mobile-games-product-analytics.ipynb в Jupyter Notebook или любой другой IDE.
+
 Примечание: Поскольку проект выполнялся в корпоративной аналитической среде, исходные файлы данных считываются из закрытой директории сервера (shared/). Для запуска кода на собственных данных вам потребуется скорректировать пути к файлам reg_data.csv и auth_data.csv в аргументах функций.
 
 ## Авторские права и дисклеймер
